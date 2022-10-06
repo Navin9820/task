@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+section{
+	background-color: #f5f5f5;
+	position: relative;
+	padding: 10px 0;
+}
+
+
+span{
+   color: green;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+.icofont-copyright{
+	padding: 3px;
+}
+
+/*
+.five{
+	position: absolute;
+	right: 0px;
+	text-align: center;
+	margin-right: 300px;
+	margin-bottom: 20px;
+}
+*/
+.icofont-twitter{
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	padding: 5px;
+}
+.icofont-facebook{
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	padding: 5px;
+}
+.icofont-instagram{
+	
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	padding: 5px;
+}
+.icofont-skype{
+	
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	padding: 5px
+}
+.icofont-linkedin{
+	
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	padding: 5px
+}
+.icofont-arrow-up{
+	position: absolute;
+	top: 30px;
+	right: 40px;
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	padding: 5px
+}
+.container{
+	display: flex;
+	width: 1140px;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	background: #f5f5f5;
+	padding: 0 15px;
+
+}
